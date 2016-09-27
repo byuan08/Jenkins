@@ -13,6 +13,9 @@ Then, visit your server using port 8080, e.g. http://jenkins.lookahead.io:8080, 
 You installed Jenkins on a Debian-based or a Fedora-based distribution, you can use the following commands:
 
 Jenkins commands
+
 $ sudo service jenkins restart
+
 $ sudo service jenkins stop
+
 $ sudo service jenkins start
