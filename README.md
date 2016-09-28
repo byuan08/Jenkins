@@ -21,6 +21,7 @@ $ sudo service jenkins stop
 $ sudo service jenkins start
 
 Unlock
+
 $ sudo vi /var/lib/jenkins/config.xml
 
 Turn security off and remove the <authorizationStrategy> node
