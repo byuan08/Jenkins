@@ -27,6 +27,6 @@ To Unlock
 sudo vi /var/lib/jenkins/config.xml
 ```
 
-Turn security off and remove the <authorizationStrategy> node
+Turn security off and remove the \<authorizationStrategy> node
 
-<useSecurity>false</useSecurity>
+\<useSecurity>false\</useSecurity>
