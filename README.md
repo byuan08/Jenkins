@@ -10,6 +10,11 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
+On Mac, simply run:
+```
+brew install jenkins
+```
+
 Then, visit your server using port 8080, e.g. http://jenkins.lookahead.io:8080, and you should see the Jenkins startup screen:
 You installed Jenkins on a Debian-based or a Fedora-based distribution, you can use the following commands:
 
